@@ -1,6 +1,7 @@
 # Simple Docker container for super lightweight desktop environment
 
 Based on ubuntu:20.04
+
 Meant to be used as a side-car container
 
 ## Startup
